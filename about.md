@@ -19,6 +19,12 @@ texts" (University of Potsdam, Humboldt-University Berlin, Free University Berli
 Though the archive management follows an **open research and open access policy**, some data sets
 are restricted due to the rights of third parties, including publishers and informants.
 
+The ERDORA Repository is a **coretrustseal** certified data repository, see
+[Core Trust Seal](https://www.coretrustseal.org "Go to the Core Trust Seal WebSite").
+
+![](../logos/CoreTrustSeal-logo-150px.jpg "Logo Core Trust Seal")
+
+
 You can enter the repository [here](https://talar.sfb833.uni-tuebingen.de:8443/erdora/ "Enter Repository")
 
 

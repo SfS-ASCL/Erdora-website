@@ -16,5 +16,5 @@ To get your research data archived, you need to provide:
 ### Tool Support
 
 To help package your research data and to support its description, please use
-**Jack The SIPper** (links follows).
+**Jack The SIPper** (link follows).
 
