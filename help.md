@@ -6,7 +6,7 @@ permalink: /help/
 
 ### Frequently Asked Questions
 
-* *I have recently started a new research project and would like to archive research data that I have collected so far. Can I use ERDORA for this?*
+* *I have recently started a new research project and would like to archive research data that I have collected so far. Can I use TALAR for this?*
 
   Please contact thorsten.trippel[at]uni-tuebingen.de.
 

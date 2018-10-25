@@ -7,7 +7,7 @@ permalink: /privacy_html/
 <table>
   <tr>
     <td>Name of the service</td>
-    <td>Tuebingen CLARIN-D RepositoryContact</td>
+    <td>Tübingen CLARIN-D Repository</td>
   </tr>
   <tr>
     <td>Data Controller and contact person</td>
