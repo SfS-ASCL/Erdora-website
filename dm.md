@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archival
+title: Data Management
 permalink: /archival/
 ---
 
@@ -15,6 +15,9 @@ To get your research data archived, you need to provide:
 
 ### Tool Support
 
-To help package your research data and to support its description, please use
-**Jack The SIPper** (link follows).
+* To help package your research data and to support its description, please use
+  **Jack The SIPper** (link follows).
+
+* CLARIN-D provides [DMPTY](https://www.clarin-d.net/en/preparation/data-management-plan "DMPTY"), a data management planner.
+
 

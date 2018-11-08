@@ -4,15 +4,16 @@ title: Contact
 permalink: /contact/
 ---
 
-### Research Data Archiving Support
-
-Dr Thorsten Trippel<br/>
+Tübingen Archive of Language Resources<br/>
+Seminar für Sprachwissenschaft<br/>
 SFB 833<br/>
 Wilhelmstrasse 19<br/>
 D-72074 Tübingen<br/>
 
+Responsibility: Prof. Dr. Erhard Hinrichs <br/>
+
 Tel.: 07071 29-77151<br/>
-E-Mail: thorsten.trippel[at]uni-tuebingen.de
+E-Mail: clarin-repository[at]uni-tuebingen.de
 
  
 

@@ -14,20 +14,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TALAR - Tübingen Archive of Language Resources
-email: thorsten.trippel@uni-tuebingen.de
-description: >- # this means to ignore newlines until "baseurl:" 
-  Hosts language-related research data from SFB 833, SFB 441, & third parties.
+email: clarin-repository@uni-tuebingen.de
+#description: >- # this means to ignore newlines until "baseurl:" 
+#  Hosts language-related research data from SFB 833, SFB 441, & third parties.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CLARIN_D
-github_username:  SfS-ASCL
+youtube_username: CLARINGermany
+facebook_username: clarindeutschland
+
+#github_username:  SfS-ASCL
 
 # Build settings
 encoding: utf-8
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
