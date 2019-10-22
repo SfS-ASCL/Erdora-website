@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TALAR - Tübingen Archive of Language Resources
-email: clarin-repository@uni-tuebingen.de
+email: clarin-repository@sfs.uni-tuebingen.de
 #description: >- # this means to ignore newlines until "baseurl:" 
 #  Hosts language-related research data from SFB 833, SFB 441, & third parties.
 baseurl: "" # the subpath of your site, e.g. /blog
