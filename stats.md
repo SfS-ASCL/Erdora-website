@@ -22,6 +22,8 @@ This repository has been awarded the [Data Seal of Approval](http://www.dataseal
 
 <img src="../logos/RTEmagicC_DSA-logo_1_June2010.gif" width="100"><img src="../logos/RTEmagicC_de3482394f.gif" width="72">
 
+
+<img src="../logos/CoreTrustSeal-logo-150px.jpg" width="100" alt="Core Trust Seal awarded"/>
 The CLARIN-D Repository TALAR received the [Core Trust Seal certificate](https://www.coretrustseal.org/wp-content/uploads/2019/03/Tü
 bingen-CLARIN-D-Repository.pdf), see [Core Trust Seal](https://www.coretrustseal.org https://www.coretrustseal.org) for further details on the certification process.
 
