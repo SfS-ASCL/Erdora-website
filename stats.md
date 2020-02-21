@@ -4,15 +4,7 @@ title: Statistics
 permalink: /stats/
 ---
 
-  <header class="post-header">
-    <h1 class="post-title">Statistics</h1>
-  </header>
-<!-- TABLE STATISTIK START -->
-
-<!-- TABLE STATISTIK END -->
-<p></p>
-
-The Tübingen Archive of Language Resources ([TALAR](https://talar.sfb833.uni-tuebingen.de/erdora/ "Enter Repository")) hosts language-related research data from three main data providers:
+The Tübingen Archive of Language Resources ([TALAR](https://talar.sfb833.uni-tuebingen.de:8443/erdora/ "Enter Repository")) hosts language-related research data from three main data providers:
 
 ### Data archives
 
