@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Management
-permalink: /archival/
+permalink: /datamanagement/
 ---
 
 ### Data Provision
@@ -15,15 +15,16 @@ To get your research data archived, you need to provide:
 
 ### Tool Support
 
-* To help package your research data and to support its description, please use
-  [**Jack The SIPper**](http://shannon.sfs.uni-tuebingen.de:4411/ "Jack The SIper").
+* To help package research data and to support its description, users within the network of the University of Tübingen may use the SIP-package creation tool 
+  [**Jack The SIPper**](http://shannon.sfs.uni-tuebingen.de:4411/ "Jack The SIper") (only accessible within the University of Tübingen network).
 
 * CLARIN-D provides [DMPTY](https://www.clarin-d.net/en/preparation/data-management-plan "DMPTY"), a data management planner.
 
 ### Recommended Formats
 
-<h2>Recommended Formats</h2>
-<p>For depositing research data with the Tübingen Archive of Language Resources (TALAR) the following data formats are recommended. In the case of special requirements not addressed by the following recommendations, researchers should contact the archivists at <a class="u-email" href="mailto:clarin-repository@sfs.uni-tuebingen.de">clarin-repository@sfs.uni-tuebingen.de</a>.</p>
+<p>For depositing research data with the Tübingen Archive of Language Resources (TALAR) the archive recommennds and accepts the following data formats. 
+In the case of special requirements not addressed by the following recommendations, researchers should contact the archivists at <a class="u-email" href="mailto:clarin-repository@sfs.uni-tuebingen.de">clarin-repository@sfs.uni-tuebingen.de</a>.
+</p>
 <br>
 <h3>Textual Resources</h3>
 <!-- TABLE FORMATS START -->
@@ -187,7 +188,7 @@ To get your research data archived, you need to provide:
 <th>Comment</th>
 </tr>
 <tr>
-<td>Program Code</td>
+<td>R-scripts</td>
 <td>R</td>
 <td>.r / .R</td>
 <td>text/plain, text/x-matlab</td>
@@ -215,7 +216,7 @@ To get your research data archived, you need to provide:
 <td>recommended</td>
 </tr>
 <tr>
-<td>Program Code</td>
+<td>Lisp Program Code</td>
 <td>Lisp</td>
 <td>.lsp</td>
 <td>text/plain</td>
@@ -236,7 +237,7 @@ To get your research data archived, you need to provide:
 <td>recommended</td>
 </tr>
 <tr>
-<td>Script</td>
+<td>Perl script</td>
 <td>Perl Script</td>
 <td>.pl</td>
 <td>application/x-perl</td>
@@ -520,4 +521,4 @@ To get your research data archived, you need to provide:
 </tr>
 </table>
 <!-- TABLE FORMATS END -->
-<p>Status of 2020-02-21</p>
+<p>Status of 2020-02-24</p>

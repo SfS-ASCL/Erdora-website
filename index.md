@@ -5,7 +5,7 @@
 layout: home
 ---
 
-The Tübingen Archive of Language Resources [(enter here)](https://talar.sfb833.uni-tuebingen.de:8443/erdora/ "Enter Repository") has received funding from the the following research organisations:
+The Tübingen Archive of Language Resources [(enter here)](https://talar.sfb833.uni-tuebingen.de/erdora/ "Enter Repository") has received funding from the the following research organisations:
 
 ![](./logos/sfbLogo.gif "SFB 833")
 ![](./logos/uniTuebingenLogo.png "Univ. Tuebingen")
