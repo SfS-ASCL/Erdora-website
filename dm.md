@@ -15,8 +15,8 @@ To get your research data archived, you need to provide:
 
 ### Tool Support
 
-* To help package research data and to support its description, users within the network of the University of Tübingen may use the SIP-package creation tool 
-  [**Jack The SIPper**](http://shannon.sfs.uni-tuebingen.de:4411/ "Jack The SIper") (only accessible within the University of Tübingen network).
+* To help package research data and to support its description, researchers may use [**Bagman**](https://weblicht.sfs.uni-tuebingen.de/bagman/),
+  a tool to create packages in the [BagIt file packaging format](https://datatracker.ietf.org/doc/html/rfc8493).
 
 * CLARIN-D provides [DMPTY](https://www.clarin-d.net/en/preparation/data-management-plan "DMPTY"), a data management planner.
 
