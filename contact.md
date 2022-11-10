@@ -13,7 +13,7 @@ D-72074 Tübingen<br/>
 Responsibility: Prof. Dr. Erhard Hinrichs <br/>
 
 Tel.: 07071 29-77151<br/>
-E-Mail: clarin-repository[at]uni-tuebingen.de
+E-Mail: clarin-repository[at]sfs.uni-tuebingen.de
 
  
 
